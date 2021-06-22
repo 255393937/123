@@ -14,12 +14,12 @@ density 2
 
 ---
 Rainbow DQN networks hyperparameters
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/57203764/122871642-473b6100-d36a-11eb-9e6f-8fd16d2f6f8d.png" width="300">
 </p>
 
 Training average reward 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/57203764/122871631-45719d80-d36a-11eb-8b6e-3c3706fcd3f2.png" width="200">
 </p>
 
