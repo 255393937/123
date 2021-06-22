@@ -6,10 +6,10 @@ RainbowDQN algorithm for GYM highway environment
 ---
 ### Videos
 
-density 1
+density 1   
 ![Hnet-image](https://user-images.githubusercontent.com/57203764/122871365-d98f3500-d369-11eb-8ea6-315492c64a90.gif)
 
-density 2
+density 2   
 ![Hnet-image (1)](https://user-images.githubusercontent.com/57203764/122871644-486c8e00-d36a-11eb-9961-c8db255f2bb5.gif)
 
 ---
